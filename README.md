@@ -1,5 +1,5 @@
 ## Project Clustering the Countries by using K-Means for HELP International
-b>Objective:</b>
+</b>Objective:</b>
  
 To categorize countries using socioeconomic and health factors that determine the overall development of the country.
  
